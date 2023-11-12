@@ -26,7 +26,7 @@ OneKey介绍
 点击 USDC ，选择要充值的链进行充值。（暂时只支持USDC充值） 注意不是USDT，别选错，充值错代币很难追回，请注意充值正确的币种。
 
 1. 获取Onekey的充值地址
-点击加号Top up -->选择USDC -->选择OKTC网络 -->拷贝USDC Address，比如我的地址是：0x001b25d5a14693e668b5d9ecb27108df85b5b037
+点击加号Top up -->选择USDC -->选择OKTC网络 -->拷贝USDC Address，比如我的地址是：0xceb9c7305dd681ddcb982c6e97d99f9308a8bc5b
 
 1. 从欧易转USDC到Onekey
 充值USDC，需要通过欧易平台，这是在国内比较容易购买到USDC/USDT的交易所。
